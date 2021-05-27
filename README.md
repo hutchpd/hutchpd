@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @hutchpd
+- 👀 I’m interested in asp.net, product validation, gaming, rowing software & healthcare.
+- 🌱 I’m currently learning 
+- 💞️ I’m looking to collaborate.
+- 📫 HMU here with a pm or email me at gmail with the same username.
