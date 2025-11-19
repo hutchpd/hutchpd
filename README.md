@@ -36,8 +36,6 @@ Multiverse variables, entanglement behaviour, and constructing quantum circuits 
 Medium article:
 [https://medium.com/@xhable/quantumsuperposition-multiverse-variables-and-quantum-circuits-in-c-755b07c5e82d](https://medium.com/@xhable/quantumsuperposition-multiverse-variables-and-quantum-circuits-in-c-755b07c5e82d)
 
-More articles will appear here as I continue to document the design and implementation of unusual programming models, probabilistic structures, and quantum-inspired computation.
-
 ---
 
 ## Work Interests
