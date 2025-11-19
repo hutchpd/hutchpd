@@ -26,8 +26,6 @@ My background includes:
 * Work across NHS, insurance, and enterprise automation
 * BSc (Hons) Computer Science, Loughborough University
 
-Full CV available here: 
-
 ---
 
 ## Writing and Articles
