@@ -1,5 +1,3 @@
-# Proposed Replacement README
-
 ### Hi, I’m Paul Hutchinson (@hutchpd)
 
 I am a Technical Project Manager and experienced programmer with more than fifteen years delivering software and transformation projects across the NHS, insurance, and SaaS. I specialise in clarifying scope, planning increments, managing RAID, and ensuring predictable, transparent delivery. I enjoy shaping solutions with real technical context and working comfortably with both executives and engineering teams.
