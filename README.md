@@ -32,7 +32,8 @@ My background includes:
 
 Multiverse variables, entanglement behaviour, and constructing quantum circuits in C#.
 Medium article:
-[https://medium.com/@xhable/quantumsuperposition-multiverse-variables-and-quantum-circuits-in-c-755b07c5e82d](https://medium.com/@xhable/quantumsuperposition-multiverse-variables-and-quantum-circuits-in-c-755b07c5e82d)
+[https://medium.com/@xhable/quantumsuperposition-multiverse-variables-and-quantum-circuits-in-c-755b07c5e82d](https://medium.com/@xhable/quantumsuperposition-multiverse-variables-and-quantum-circuits-in-c-755b07c5e82d).
+Zenodo article: QuantumSuperposition and PositronicVariables [https://zenodo.org/records/17863969](https://zenodo.org/records/17863969)
 
 ---
 
